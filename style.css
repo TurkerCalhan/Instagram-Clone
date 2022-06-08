@@ -1,0 +1,69 @@
+.logo{
+    margin-left: 195px;
+}
+.placeholder{
+    text-align: center;
+    font-size: 14px;
+    color: gray;
+    background-position: 40%;
+    background-size: 6%;
+    
+    
+  }
+  
+  .input.empty {
+      font-family: FontAwesome;
+      font-style: normal;
+      font-weight: normal;
+      text-decoration: inherit;
+      background-color: #FAFAFA;
+  }
+  
+  .postuserfont {
+    
+    font-size: 15px;
+    color: black;
+  }
+  
+  
+  .storyphoto {
+   
+    border-style: solid;
+    
+    
+  }
+  
+  .storytext {
+    
+      margin: auto;
+      margin-bottom: 2px;
+    text-align: center;
+    font-size: 18px;
+    color: black;
+  }
+  
+  .rightpanellinks {
+    text-decoration: none;
+    color: lightgrey;
+  }
+  
+  .rightpanellinks {
+    text-decoration: none;
+    color: lightgrey;
+  }
+  .middlearea{
+      max-height: 20px;
+  }
+.cardheader{
+    background-color: white;
+}
+.cardfooter{
+    background-color: white;
+}
+.rightpanel{
+    background-color: white;
+    border: 0;
+}
+.sticky-sidebar{
+    position: fixed;
+}
